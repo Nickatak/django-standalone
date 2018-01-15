@@ -1,0 +1,1 @@
+A stand-alone django ORM project meant to be used by Python3.
