@@ -1,5 +1,5 @@
 ### A stand-alone django ORM project meant to be used by Python3.
-    ##### - Last updated (1/15/2018).
+###### Last updated (1/15/2018).
 
 ### Basic usage:
     - [] git clone the project.
