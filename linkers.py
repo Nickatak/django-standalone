@@ -7,7 +7,7 @@ django.setup()
 from dat.models import *
 
 
-#Define any functions below.  These can be called right here in the script, but I'd prefer that they were imported and called elsewhere and limited with __all__.
+#Define any functions below.  These can be called right here in the script, but I'd prefer that they were imported and called elsewhere and limited with __all__. See: test.py
 def t_add():
     Test.objects.create(name='asdf')
     
