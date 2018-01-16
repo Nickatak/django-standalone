@@ -4,5 +4,6 @@
 ### Basic usage
 - [ ] git clone the project.
 - [ ] edit models to reflect your SQL schema.
-- [ ] write function in linkers.py
+- [ ] Makemigrations/migrate (Note: `python manage.py makemigrations <folder-name-with-models.py>`).
+- [ ] write functions in linkers.py
 - [ ] Either import the functions in linkers.py or just use it directly in application you choose.
